@@ -1,4 +1,5 @@
 Wpisz swój numer z dziennika w jednej linii oraz imie i nazwisko.
 Pamiętaj o sortowaniu rosnącym według numeru z dziennika !!!.
 0 Grzegorz Staniszewski
+32 Wiktor Kozioł
 11 Łukasz Jemioło
