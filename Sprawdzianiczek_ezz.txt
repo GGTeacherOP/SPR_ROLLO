@@ -1,8 +1,10 @@
 Wpisz swój numer z dziennika w jednej linii oraz imie i nazwisko.
 Pamiętaj o sortowaniu rosnącym według numeru z dziennika !!!.
 0 Grzegorz Staniszewski
+11 Łukasz Jemioło
 3 Maksymilian Dorociak
 32 Wiktor Kozioł
 11 Łukasz Jemioło
 12 Nikola Łodkowska
 14 Kacper Nowak
+21 Igor Rakoczy
