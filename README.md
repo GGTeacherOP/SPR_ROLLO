@@ -15,6 +15,7 @@ Zapisz zmiany w pliku.
 operację merge wykonuj wyłącznie przez przeglądarkę,
 w przypadku konfliktów rozwiąż je samodzielnie, zachowując dane wszystkich uczniów.
 Zatwierdź merge do gałęzi main.
+Po zmergowaniu NIE usuwaj swojego brancha !!!
 
 UWAGA!!!!!!!!!!!
 Zabronione jest usuwanie lub modyfikowanie wpisów innych osób. 
